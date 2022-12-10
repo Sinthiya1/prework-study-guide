@@ -1,4 +1,8 @@
 # prework-study-guide
-### Hi there! 
--This is my first webpage that I created by myself and this page contains HTML,CSS and JS.
 
+# Description
+This is my first webpage that I created. This webpage contains HTML,CSS, JS and Git.
+
+
+## User Story
+In this website you can see the work notes to be structured on a webpage and you can easily find and read the informations.
