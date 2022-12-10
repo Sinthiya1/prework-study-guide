@@ -1,2 +1,2 @@
 # prework-study-guide
-There is a form that contains HTML,CSS and JS
+This is my first webpage that I created by myself and this page contains HTML,CSS and JS.
